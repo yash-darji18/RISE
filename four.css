@@ -1,0 +1,41 @@
+@font-face {
+    font-family: ;
+    src: url();
+}
+
+h1{
+ text-shadow: 5px 5px 4px red;
+
+}
+
+#hi{
+   height: 100px;
+   width: 100px;
+   background-color: aqua;
+   box-shadow: 5px 5px 5px red;
+}
+
+
+#h{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    box-shadow: 5px 5px 5px red; 
+}
+#ih{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    box-shadow: 5px 5px 5px red;
+}
+div{
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 3px solid black;
+    outline: double;
+    outline-offset: -20px;
+    border-radius: 10px;
+
+}
+
